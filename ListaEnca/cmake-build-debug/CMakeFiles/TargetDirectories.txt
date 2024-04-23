@@ -1,0 +1,3 @@
+C:/Users/edvaldo/OneDrive/Documentos/ED_BOOK_NINA/ListaEnca/cmake-build-debug/CMakeFiles/ListaEnca.dir
+C:/Users/edvaldo/OneDrive/Documentos/ED_BOOK_NINA/ListaEnca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edvaldo/OneDrive/Documentos/ED_BOOK_NINA/ListaEnca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

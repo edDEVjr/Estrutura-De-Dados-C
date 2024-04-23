@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lista_Du_Enca",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lista_Du_Enca::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lista_Du_Enca-Debug-21978a7ca6b7d31c2bdd.json",
+					"name" : "Lista_Du_Enca",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/edvaldo/OneDrive/Documentos/ED_BOOK_NINA/Lista_Du_Enca/cmake-build-debug",
+		"source" : "C:/Users/edvaldo/OneDrive/Documentos/ED_BOOK_NINA/Lista_Du_Enca"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

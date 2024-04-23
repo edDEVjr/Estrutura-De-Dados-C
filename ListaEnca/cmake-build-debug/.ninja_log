@@ -1,0 +1,9 @@
+# ninja log v5
+93	586	7355955919666690	CMakeFiles/ListaEnca.dir/Lista_Enc.c.obj	8e48ba6b4e481248
+32	221	7356000731743923	CMakeFiles/ListaEnca.dir/main.c.obj	2e424f77bac23efc
+223	402	7356000733496940	ListaEnca.exe	e7e1c38c21566dc4
+55	293	7355998543608355	CMakeFiles/ListaEnca.dir/ex29.c.obj	6f92252d030d720a
+39	276	7356003498797556	CMakeFiles/ListaEnca.dir/mainEx29.c.obj	7e8a12348acb2add
+14	278	7356003498807444	CMakeFiles/ListaEnca.dir/main.c.obj	2e424f77bac23efc
+10	222	7356003868084468	CMakeFiles/ListaEnca.dir/mainEx29.c.obj	7e8a12348acb2add
+223	444	7356003870247899	ListaEnca.exe	de8ad11dfe906b4e
